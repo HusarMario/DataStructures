@@ -1,0 +1,14 @@
+
+*.vsidx
+*.lock
+DataStructure Project/.vs/DataStructures/v17/.suo
+*.db
+*.ipch
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.log
+*.tlog
+*.idb
+*.cache
